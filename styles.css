@@ -2,3 +2,40 @@
     box-sizing: border-box;
 }
 
+.p2 {
+    color: rgb(0, 240, 0);
+}
+
+.border1 {
+    padding: 25px;
+    background-color: white;
+    border: 5px solid orange;
+}
+
+body {
+    background-color: gray;
+}
+
+#k {
+    background-color: pink;
+}
+
+img {
+    display: inline-block
+}
+
+.p1 {
+    color: yellow
+}
+
+.p3 {
+    color: darkblue;
+}
+
+#k {
+    color:white;
+}
+
+.p4 {
+    color:aliceblue;
+}
